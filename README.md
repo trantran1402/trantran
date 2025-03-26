@@ -1,2 +1,14 @@
-# trantran
-Đây là nền tảng đọc truyện chữ và truyện tranh trực tuyến, hỗ trợ tác giả đăng tải nội dung và kiếm tiền từ lượt xem, quà tặng của độc giả. Web có các tính năng:  Đọc truyện miễn phí &amp; mất phí (trả theo lượt xem)  Tặng quà cho tác giả  Hệ thống bình luận &amp; đánh giá  Thống kê doanh thu &amp; quản lý truyện .
+
+Tran1402 là nền tảng dành cho tác giả xuất bản tiểu thuyết và truyện tranh trực tuyến, đồng thời kiếm tiền từ lượt đọc. Độc giả có thể thưởng thức nội dung miễn phí hoặc trả phí, tặng quà ủng hộ tác giả và tương tác qua bình luận, đánh giá.
+
+Nền tảng cung cấp các công cụ hỗ trợ tác giả:
+
+Hệ thống đọc truyện miễn phí & trả phí (tính phí theo lượt xem).
+
+Cơ chế tặng quà giúp tác giả tăng thu nhập.
+
+Bình luận & đánh giá để kết nối với độc giả.
+
+Phân tích doanh thu & quản lý truyện chuyên nghiệp.
+
+Mục tiêu của Tran1402 là tạo ra một không gian sáng tạo, nơi tác giả có thể phát triển sự nghiệp và độc giả có trải nghiệm đọc truyện tốt nhất.
